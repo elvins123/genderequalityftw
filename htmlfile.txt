@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Gender Equality for the World</title>
+</head>
+<body>
+<div class="start">
+    div class="starting">
+    <h1>Gender Equality</h1>
+    <p>Gender Equality is a pressing issue around the globe.</p>
+    <p>Many countries do not give women and men equal chances</p>
+    <p>It is time for it to end.</p>
+    </div class="starting">
+</div class="start">
+    
